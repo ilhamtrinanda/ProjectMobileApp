@@ -28,5 +28,19 @@
             android:textSize="24sp"
             android:textStyle="bold"/>
 
+        <Button
+            android:id="@+id/btnClickHere"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50sp"
+            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10sp"
+            android:padding="20sp"
+            android:text="Click Here"/>
+
+        <Button
+            android:layout_width=""
+            android:layout_height=""
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
