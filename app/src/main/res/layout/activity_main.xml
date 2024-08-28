@@ -39,8 +39,13 @@
             android:text="Click Here"/>
 
         <Button
-            android:layout_width=""
-            android:layout_height=""
+            android:id="@+id/btnNextPage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="50sp"
+            android:layout_marginRight="10sp"
+            android:text="Next Page" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
